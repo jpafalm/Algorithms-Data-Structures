@@ -1,2 +1,2 @@
 # Algorithms-Data-Structures
-Here is are a list algorithms that I have been working on in my Algorithms and Data Structure course.
+Here are a list algorithms that I have been working on in my Algorithms and Data Structure course.
