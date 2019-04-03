@@ -1,7 +1,7 @@
 
 /*
     Java program to find compound interest for given values. 
-
+    
     @author Joao Pedro Affonso de Almeida 
     @author 18145957
     @version 11/12/2018

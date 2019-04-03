@@ -2,7 +2,7 @@
 /*
     Create a program that calculates the chance of all students from a class having 
     the same birthday, using recursive method.
-    
+        
     With one person, the chance of all people having different birthdays is 100%
     (obviously). If you add a second person, that person has  a 364/365 chance of
     also having a distinct birthday. When you add a third person, that person has

@@ -1,5 +1,5 @@
 
-/* 	
+/*  
 	Finding the difference between prime numbers. You'll be given a number N, and you need ot output the difference between the nearest prime below N and the nearest prime above N.
 	For example, if you were given input 10, the nearest prime numbers are 7 and 11. 11-7=4 so your output will be 4.
 
@@ -7,7 +7,7 @@
 	Note2: In this example we were considering that if the user input is equals a prime number, then the output will be (following prime - previous prime). Line 39 and Line 47.
 
 	Sieve of Eratosthenes
-
+	
     @author Joao Pedro Affonso de Almeida 
     @author 18145957
     @version 16/10/2018

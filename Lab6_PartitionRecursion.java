@@ -3,7 +3,7 @@
     JAVA code to partition a set into two subsets 
     such that the difference of subset sums 
     is minimum.
-
+    
     @author Joao Pedro Affonso de Almeida 
     @author 18145957
     @version 13/11/2018

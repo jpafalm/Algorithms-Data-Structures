@@ -1,7 +1,7 @@
 
 /*  
     Create a program to find a maximum and minimum value node from a doubly linked list.
-
+    
     @author Joao Pedro Affonso de Almeida 
     @author 18145957
     @version 04/12/2018

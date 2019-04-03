@@ -3,9 +3,9 @@
     Given the election odds from https://www.paddypower.com/politics, 
     calculate what are the probabilities for each of the politicians being  elected. 
     You should use the Monte Carlo Method.
-   
+    
     Source: http://www.mathcs.emory.edu/~cheung/Courses/170/Syllabus/07/compute-pi.html
-   
+     
     @author Joao Pedro Affonso de Almeida 
     @author 18145957
     @version 22/10/2018 

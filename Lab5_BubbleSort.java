@@ -4,7 +4,7 @@
 	the one which if you put them all in order would be in the middle. If there are two in the middle then take the average of
 	those two. For example the median of 4,8,2,3 and 5 is 4, because if you put them all in order 4 would be the middle value.
 	The median of 2,7,4, and 9 is 5.5 because 5.5 is the average of 4 and 7.
-
+	
 	@author Joao Pedro Affonso de Almeida 
 	@author 18145957
 	@version 07/11/2018

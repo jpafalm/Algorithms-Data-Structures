@@ -2,7 +2,7 @@
 /*
     Program to show how many time we need to roll a dice in order to get a number 6 while bitcoin is mined.
     Monte Carlo priciple was used to solve this problem.
-    
+      
     @author Joao Pedro Affonso de Almeida 
     @author 18145957
     version 11/12/2018

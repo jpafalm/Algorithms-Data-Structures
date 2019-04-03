@@ -10,7 +10,7 @@
 	The way to solve this problem is to push all the instructions onto the stack, pop when you get
 	"Go Back", and then pop them all off at the end (flipping North <-> South and East <-> West) to
 	have a reversed set of instructions to get you home.
-
+	
    	@author Joao Pedro Affonso de Almeida 
    	@author 18145957
    	@version 20/11/2018
